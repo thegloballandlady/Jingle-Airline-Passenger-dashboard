@@ -76,8 +76,7 @@ The following key insights and metrics were visualized in Power BI:
 
 
 
-
-![j3](https://github.com/user-attachments/assets/93754fbc-bbff-4831-8b25-423359dba4e4)
+![j3](https://github.com/user-attachments/assets/4683eeeb-1565-497f-8cb2-20b08d6998f8)
 
 
 
