@@ -5,7 +5,7 @@
 
 ### Project Overview
 ---
-This project analyzes Jingle Airline's passenger data spanning 1949 to 1960. The dataset consists of 144 records, detailing monthly passenger counts. After cleaning the data in Excel, Power BI was used for transformation and creating insightful visualizations. The goal is to explore trends, seasonal patterns, and growth rates, providing valuable insights into passenger behavior over the years.
+This project analyzes Jingle Airline's passenger data spanning 1949 to 1960. The dataset consists of 40,000 records, detailing monthly passenger counts. After cleaning the data in Excel, i used Power BI for transformation and creating insightful visualizations. The goal is to explore trends, seasonal patterns, and growth rates, providing valuable insights into passenger behavior over the years.
 
 
 ### Dataset Details
